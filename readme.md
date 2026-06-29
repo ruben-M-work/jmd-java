@@ -1,8 +1,7 @@
 # Top comidas
 
-- Esparguete
+- Pizza
 - Lasanha
-- Massas e afins
-
+- Serrradura
 ~~ta kust é a melhor~~
-Afinal gosto é de gelado
+- Afinal gosto é de gelado
